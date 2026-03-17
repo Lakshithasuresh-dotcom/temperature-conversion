@@ -1,0 +1,53 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    background-color: #e4e8f3;
+}
+form{
+    background-color: #ffffff;
+    text-align: center;
+    margin: auto;
+    border-radius: 2px;
+    box-shadow: 5PX 5PX 10PX rgba(83, 83, 83, 0.781);
+    width: 400px;
+    margin-bottom: 20px;
+    padding: 25px;
+    
+
+}
+#textbox{
+    margin-bottom: 10px;
+    padding: 8px;
+}
+h1{
+    margin-top: 10px;
+    color: rgb(2, 2, 2);
+    text-align: center;
+}
+
+#tofahrenheit{
+    cursor: pointer;
+}
+#tocelsius{
+    cursor: pointer;
+}
+button{
+font-size: 18px;
+background-color:#0284C7;
+color: white;
+border-radius: 5px;
+cursor: pointer;
+border-color: #0284C7;
+padding-bottom: 5px;
+
+}
+label{
+    font-weight: lighter;
+}
+
+button:hover {
+    background-color:rgb(166, 166, 252);
+    color:black;
+}
+
+
